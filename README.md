@@ -30,4 +30,4 @@ Each sample includes:
 
 - Raw heart rate data (folder : HeartRate)
 - Subjective emotion questionnaire scores (file : Questionnaire score.xlsx)
-- Individual takeover performance measures (file : TOP indicators.xlsx)
+- Individual takeover performance indicators (file : TOP indicators.xlsx)
